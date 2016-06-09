@@ -1,0 +1,19 @@
+### EMACS ###
+*~
+
+### GRADLE ###
+# Adapted from https://github.com/github/gitignore/blob/master/Gradle.gitignore
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+gradle/wrapper/gradle-wrapper.properties
+
+### INTELLIJ ###
+# Adapted from https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+/out/
+*.iws
+*.iml
+*.ipr
+.idea
